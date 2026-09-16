@@ -1,5 +1,5 @@
 terraform {
-  required_version = ">= 1.0.0,"
+  required_version = ">= 1.0.0"
 
   # Updating the Terraform external provider to 2.3.0 caused an undocumented breaking change (as evidenced by
   # issues like https://github.com/hashicorp/terraform-provider-external/issues/193). The solution is to pin 

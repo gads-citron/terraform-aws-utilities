@@ -1,5 +1,5 @@
 terraform {
-  required_version = ">= 1.0.0,"
+  required_version = ">= 1.0.0"
 }
 
 # Remove the items in items_to_remove from original_list. This works because:
